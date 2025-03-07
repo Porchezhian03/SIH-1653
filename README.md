@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 06/03/2025
 ## Register Number: 212224040235
-## Name: PORCHEZHIAN
+## Name: PORCHEZHIAN E
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
